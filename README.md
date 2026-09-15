@@ -15,6 +15,7 @@ Ce dépôt ne contient pas de code applicatif : chaque dossier de `projets/` por
 ## Conventions
 
 - Une session Claude Code = un sujet de travail. Elle porte le tag `projet:<slug>` de son projet, et `source:codex` si elle vient de Codex.
+- Le tag `codex:en-cours` marque les sessions qui tournaient encore sur Codex au moment de la migration.
 - Les sessions sont rattachées à ce dépôt : `CLAUDE.md` est chargé à l'ouverture et renvoie Claude vers le README du projet concerné.
 - Le README d'un projet est la source de vérité : contexte, sessions, notes.
 

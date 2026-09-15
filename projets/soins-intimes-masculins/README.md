@@ -8,8 +8,8 @@ Sessions importées de Codex le 15 septembre 2026. Leur historique n'est pas dan
 
 | # | Session | Statut Codex | Claude Code | Remarque |
 |---|---|---|---|---|
-| 1 | Vérifier GPT Image 2.5 | Inactive | _à créer_ |  |
-| 2 | Récapituler le projet | Inactive | _à créer_ |  |
+| 1 | Vérifier GPT Image 2.5 | Inactive | [Ouvrir](https://claude.ai/code/session_01LQ6Y9ziLGiYp7tRyawQsxA) |  |
+| 2 | Récapituler le projet | Inactive | [Ouvrir](https://claude.ai/code/session_01GrR9pPxBvCkuB9YQ2fvK5e) |  |
 
 ## Notes
 

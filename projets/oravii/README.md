@@ -8,8 +8,8 @@ Sessions importées de Codex le 15 septembre 2026. Leur historique n'est pas dan
 
 | # | Session | Statut Codex | Claude Code | Remarque |
 |---|---|---|---|---|
-| 1 | Préparer campagne CBO natives V3 | Inactive | _à créer_ |  |
-| 2 | Analyser les angles publicitaires | Inactive | _à créer_ |  |
+| 1 | Préparer campagne CBO natives V3 | Inactive | [Ouvrir](https://claude.ai/code/session_01Syh8WhgVze4xePbQUf5bKL) |  |
+| 2 | Analyser les angles publicitaires | Inactive | [Ouvrir](https://claude.ai/code/session_01WFbcrxy6ejL7YbPGvjdCDQ) |  |
 
 ## Notes
 

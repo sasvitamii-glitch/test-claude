@@ -8,7 +8,7 @@ Sessions importées de Codex le 15 septembre 2026. Leur historique n'est pas dan
 
 | # | Session | Statut Codex | Claude Code | Remarque |
 |---|---|---|---|---|
-| 1 | Trouver outils montage vidéo IA | Inactive | _à créer_ |  |
+| 1 | Trouver outils montage vidéo IA | Inactive | [Ouvrir](https://claude.ai/code/session_01Rqa5RutFFiniRMYpt8ug5S) |  |
 
 ## Notes
 
