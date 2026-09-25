@@ -25,4 +25,4 @@ Sessions importées de Codex le 15 septembre 2026. Leur historique n'est pas dan
 
 ## Notes
 
-- **25/09/2026, factures fournisseurs.** 9 factures de fin août à septembre (montage vidéo, copywriting) vérifiées dans Qonto. Demande de virement groupé créée pour les factures échues, à approuver dans Qonto ; les factures non échues restent à régler. Fournisseurs et montants volontairement absents : ce dépôt est public.
+- **25/09/2026, factures fournisseurs.** 9 factures de fin août à septembre (montage vidéo, copywriting) vérifiées dans Qonto. Une seule demande de virement groupé créée pour toutes les factures impayées, facture jointe à chaque virement, à approuver dans Qonto (la première demande partielle a été annulée pour éviter un double paiement). Fournisseurs et montants volontairement absents : ce dépôt est public.
