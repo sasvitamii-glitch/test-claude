@@ -25,4 +25,5 @@ Sessions importées de Codex le 15 septembre 2026. Leur historique n'est pas dan
 
 ## Notes
 
-- **25/09/2026, factures fournisseurs.** 9 factures de fin août à septembre (montage vidéo, copywriting) vérifiées dans Qonto. Une seule demande de virement groupé créée pour toutes les factures impayées, facture jointe à chaque virement, à approuver dans Qonto (la première demande partielle a été annulée pour éviter un double paiement). Fournisseurs et montants volontairement absents : ce dépôt est public.
+- **25/09/2026, factures fournisseurs.** 9 factures de fin août à septembre (montage vidéo, copywriting) vérifiées dans Qonto. Une seule demande de virement groupé créée pour toutes les factures impayées, facture jointe à chaque virement, à approuver dans Qonto (la première demande partielle a été annulée pour éviter un double paiement).
+- **Vérifier un paiement dans Qonto :** regarder aussi les virements revenus (crédits avec « RETURN » en référence). Qonto peut afficher « payée » une facture dont le virement a été renvoyé par la banque du bénéficiaire. Et pour un IBAN déjà enregistré, Qonto réutilise le nom du bénéficiaire existant, même si on en indique un autre dans la demande. Fournisseurs et montants volontairement absents : ce dépôt est public.
