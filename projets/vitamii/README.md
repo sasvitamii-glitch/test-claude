@@ -25,4 +25,5 @@ Sessions importées de Codex le 15 septembre 2026. Leur historique n'est pas dan
 
 ## Notes
 
-_(contexte, décisions, liens utiles : à compléter au fil des sessions)_
+- **Uploader pubs** (upload des créas vers Notion `Vitamii Créateur` + Drive) : code dans le dépôt privé [`sasvitamii-glitch/notionvitamiiads`](https://github.com/sasvitamii-glitch/notionvitamiiads), app sur `notionvitamiiads.vercel.app`. Le produit (préfixe IMD, ARC…) est choisi à l'upload et fait foi partout (nom, dossier Drive, angles) ; le lien de destination peut le suggérer.
+- **24/09/2026 : ARC00111 et ARC00112 sont des vidéos IMD enregistrées en ARC.** Le lien de destination collé était la page « articulation chat », l'uploader a suggéré ARC et le choix a été confirmé. L'IA a signalé le décalage dans les fiches Notion, sans alerte dans l'uploader. ARC00110 est bien un ARC. Correction des fiches et durcissement de l'uploader : à décider.
